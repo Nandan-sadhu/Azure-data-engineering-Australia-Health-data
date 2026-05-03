@@ -27,9 +27,8 @@ Power BI Dashboard
 ---
 
 ## ADF Pipeline Architecture
-
-![Screenshots](Project-Diagram.png)
-![Screenshots](Extract - Copy activity.png)
+![Architecture Diagram](Screenshots/Project-Diagram.png)
+![Architecture Diagram](Screenshots/Extract - Copy activity.png)
 
 ### Key Components Used
 
