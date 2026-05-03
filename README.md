@@ -240,7 +240,4 @@ azure-health-data-project/
 
 ## Author
 
-**Your Name**
-
-* LinkedIn Profile
-* GitHub Profile
+**Nandan Sadhu**
